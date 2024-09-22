@@ -1,0 +1,11 @@
+How to install and run our system:
+
+1. Download and unzip files
+2. Open a Terminal window at the root of the directory (called "final_project" by default)
+3. Run the following command (no quotes): "opam install bogue"
+4. Once Bogue has finished installing, build the project using dune as follows (no quotes): "dune build"
+5. Then, run the program by running the following command (no quotes): "dune exec ./_build/default/bin/main.exe"
+
+Done! The main game window should now open. Clicking any of the four buttons will open another window for each game.
+
+Please let us know if you have any questions!
